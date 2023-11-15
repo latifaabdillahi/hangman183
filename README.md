@@ -1,26 +1,37 @@
-# Hangman
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
-Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
 
-At minimum, your README file should contain the following information:
+# Project Title: Hangman Game
+ 
+## Table of Contents
 
-### HANGMAN PROJECT
-#### DESCRIPTION:
-This is my description for the Hangman Project , this file breaks down step by step the steps taken to achieve creating a Hangman game.
-#### AIM:
-The aim of the project is to utilise the skills learnt so far such as creating classes (OOP) for loops , functions and put this knowledge to work .
-#### FILE STRUCTURE:
-?
+#### Description
+Description
+The Hangman Game project is a simple text-based game where the player attempts to guess a word by suggesting letters within a certain number of chances. It's a classic game that challenges the player's word recognition skills and provides an enjoyable and interactive experience.
 
-#### TABLE OF CONTENTS:
-- MILESTONE 1
-- MILESTONE 2
-- MILESTONE 3
-- MILESTONE 4
+#### Aim
+The primary goal of the Hangman Game project is to develop a simple yet engaging game that demonstrates the progression of a project through multiple milestones. It aims to showcase the incremental development of features, from basic functionality to an enhanced user experience.
 
-Installation instructions
-Usage instructions
-File structure of the project
-License information
+#### What I Learned
+Throughout the development of this Hangman Game, I gained valuable experience in:
+Basic Python programming concepts.
+User input validation and handling.
+Randomization and list manipulation in Python.
+Simple ASCII art for visual representation.
+Project structuring and incremental development.
+
+#### Milestone 1: Basic Structure
+Implement a basic version of the game with a hard-coded word.
+Allow the player to input letters and display the progress of the word.
+#### Milestone 2: Randomized Words
+Introduce a list of words and randomly select one for each game.
+Add logic to check the validity of user input and update the game accordingly.
+#### Milestone 3: Visual Representation
+Enhance the user interface by adding ASCII art for the hangman.
+Improve the display of guessed letters and the hidden word.
+#### Milestone 4: User Feedback and End Game
+Provide feedback on the player's performance after each round.
+Implement a mechanism to end the game, revealing the word if not guessed.
+
+
+#### License
+This Hangman Game project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license. See the LICENSE file for more details.
